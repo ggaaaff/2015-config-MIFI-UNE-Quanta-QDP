@@ -1,15 +1,31 @@
-## INDICACIONES - MIFI UNE QUANTA QDP (4G LTE - COLOMBIA)
+### MIFI UNE QUANTA QDP (4G LTE - COLOMBIA)
 
-Indicaciones con varias configuraciones para el MiFi UNE Quanta QDP, vendido en Colombia.
+Las indicaciones para **configurar desde CERO** el MiFi UNE Quanta QDP, se encuentran en la WIKI:   
+https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/wiki  
 
 
-## Archivos disponibles
 
-Documento inicial en formato ODT (LibreOffice) con todas las indicaciones.  
-[config-mifi-une-quanta-qdp.odt](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/config-mifi-une-quanta-qdp.odt)
+***** 
 
-Archivo con configuraciones recomendadas en las indicaciones.  
-[2015-04-20-conf-mifi-une-quanta-qdp.sav](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/2015-04-20-conf-mifi-une-quanta-qdp.sav)
+**Otros archivos disponibles**  
 
-[WIKI](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/wiki) con indicaciones, con baseen lo escrito en el documento ODT.  
+[config-mifi-une-quanta-qdp.odt](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/config-mifi-une-quanta-qdp.odt)  
+Documento en formato ODT (LibreOffice) con indicaciones. --_Obsoleto_--
+
+
+[2015-04-20-conf-mifi-une-quanta-qdp.sav](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/2015-04-20-conf-mifi-une-quanta-qdp.sav)  
+Configuraciones recomendadas en las indicaciones del documento ODT.  
+
+
+
+***** 
+
+LICENCIA: Creative Commons Atribución 4.0 Internacional (CC BY 4.0)  
+http://creativecommons.org/licenses/by/4.0/deed.es  
+
+> 
+Para referenciar el trabajo original, utilizar como ejemplo lo siguiente:  
+Configuración desde CERO para el MiFi UNE Quanta QDP.  
+https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP  
+Obtenido enlace el 2015-04-30.  
 
