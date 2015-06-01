@@ -9,11 +9,11 @@ https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/wiki
 
 **Otros archivos disponibles**  
 
-[2015-04-22-config-mifi-une-quanta-qdp.odt](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/2015-04-22-config-mifi-une-quanta-qdp.odt)  
+[2015-04-22-config-mifi-une-quanta-qdp.odt](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/2015-04-22-config-mifi-une-quanta-qdp.odt?raw=true)  
 Documento en formato ODT (LibreOffice) con indicaciones. --_Obsoleto_--
 
 
-[2015-04-20-conf-mifi-une-quanta-qdp.sav](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/2015-04-20-conf-mifi-une-quanta-qdp.sav)  
+[2015-04-20-conf-mifi-une-quanta-qdp.sav](https://github.com/ggaaaff/2015-config-MIFI-UNE-Quanta-QDP/blob/master/bin/2015-04-20-conf-mifi-une-quanta-qdp.sav?raw=true)  
 Configuraciones recomendadas en las indicaciones del documento ODT.  
 
 
